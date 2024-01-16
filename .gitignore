@@ -162,5 +162,5 @@ cython_debug/
 #Self ignore
 App/static/*/*/*
 !App/static/*/*/
-!App/static/*/
+# !App/static/*/
 
