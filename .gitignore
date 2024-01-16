@@ -161,9 +161,8 @@ cython_debug/
 
 #Self ignore
 App/static/*/*/*
-!App/static/data_asset/*/
-!App/static/data_products/*/
-!App/static/user/*/
+!App/static/*/*/README.md
+
 # !App/static/*/*/
 # !App/static/*/
 
