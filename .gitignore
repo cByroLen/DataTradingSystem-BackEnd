@@ -160,7 +160,7 @@ cython_debug/
 .idea/
 
 #Self ignore
-App/static/*/*/*
-!App/static/*/*/
+# App/static/*/*/*
+# !App/static/*/*/
 # !App/static/*/
 
